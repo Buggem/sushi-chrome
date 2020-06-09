@@ -1,0 +1,16 @@
+{
+    "name": "Sushi website",
+    "version": "1.7",
+    "description": "Sushi (Version 1.7) is a programming language that lets you edit and create background.js files via a alias on your hard drive. To find out more about Sushi, visit http://maxcorptech.com/sushi or continue reading this description. Supported types of JS: Chrome extension JS, (declarativeContent and unlimitedStorage) color-js (color: '#3aa757') and other JS you know.",
+    "permissions": ["declarativeContent", "storage"],
+        "browser_action": {
+        "default_popup": "view.html",
+        "default_icon": {
+           "128": "images/sushi-final.png"
+      }
+    },
+    "icons": {
+      "128": "images/sushi-final.png"
+    },
+    "manifest_version": 2
+  }

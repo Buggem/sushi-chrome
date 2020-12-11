@@ -8,7 +8,7 @@ alert(greeting);
 var q = prompt("Say yes or no:");
 var a = "Ok, the answer was " + q + ". But either way, lets at least teach you the basics. (Even if the answer is no!)";
 alert(a);
-alert("I will give you a tutorial, soon, but we are making one right now. Come back to check later! (My memory isn't very good, so you'll have to enter your name again)");
+alert("Check out README.md! That will teach you the basics (If you come back, since my memory isn't very good, so you'll have to enter your name again)");
 alert("Oh, and one last thing. " + name + ", if you already know how to how to code Sushi, click on the Sushi Coding Alias on your hard drive in the /Sushi/ directory. It will run after I finish talking.");
 // Sushi talking end
 // Code starts here
